@@ -61,3 +61,5 @@ Cross-sell visibility was a top request — many teams knew product associations
 Anomaly detection was underused — most teams manually scanned for outliers in spreadsheets, missing high-value customers who could be targeted for VIP programs
 
 These insights shaped the dashboard structure — every page was designed to answer a specific question a real user would actually ask.
+
+Streamlit: https://idai105-2505654--jaineepatel-blackfriday-pkjsx5t5v2n5obsuk3skh.streamlit.app/ 
